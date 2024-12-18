@@ -172,6 +172,12 @@ O projeto utiliza o **MSW** (Mock Service Worker) para simular a API, permitindo
 - **Notificações**:
   - Alertas visuais com `react-toastify`.
 
+<img width="1795" alt="Captura de Tela 2024-12-18 às 00 49 59" src="https://github.com/user-attachments/assets/51cce6fb-2072-404c-8171-24249bec4070" />
+<img width="1744" alt="Captura de Tela 2024-12-18 às 00 50 51" src="https://github.com/user-attachments/assets/8d88ff4a-b8e3-45fa-8ce6-c394d6d7f8ae" />
+<img width="1795" alt="Captura de Tela 2024-12-18 às 00 52 22" src="https://github.com/user-attachments/assets/e567e346-065e-4f86-abeb-227bb68300e0" />
+<img width="1793" alt="Captura de Tela 2024-12-18 às 00 52 36" src="https://github.com/user-attachments/assets/b27055ef-4634-42a7-b733-40615826a0de" />
+<img width="1797" alt="Captura de Tela 2024-12-18 às 00 53 20" src="https://github.com/user-attachments/assets/b50ed385-3a07-469f-9db7-2433b9ae53d3" />
+
 ---
 
 ## Autor
