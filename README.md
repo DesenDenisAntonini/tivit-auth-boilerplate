@@ -76,7 +76,7 @@ A organização do projeto segue as boas práticas de desenvolvimento frontend:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/tivit-auth-boilerplate.git
+   git clone https://github.com/DesenDenisAntonini/tivit-auth-boilerplate.git
    cd tivit-auth-boilerplate
    ```
 
@@ -86,13 +86,7 @@ A organização do projeto segue as boas práticas de desenvolvimento frontend:
    npm install
    ```
 
-3. **Configure as variáveis de ambiente**:
-
-   Crie um arquivo `.env` com o seguinte conteúdo:
-
-   ```plaintext
-   VITE_API_BASE_URL=https://api-onecloud.multicloud.tivit.com/fake
-   ```
+3. **NODE VERSÃO 18ˆ**:
 
 4. **Execute o projeto em modo de desenvolvimento**:
 
@@ -102,7 +96,7 @@ A organização do projeto segue as boas práticas de desenvolvimento frontend:
 
 5. **Acesse o projeto no navegador**:
 
-   - [http://localhost:5173](http://localhost:5173)
+   - [http://localhost:3001](http://localhost:3001)
 
 ---
 
@@ -182,6 +176,6 @@ O projeto utiliza o **MSW** (Mock Service Worker) para simular a API, permitindo
 
 ## Autor
 
-Desenvolvido por [Seu Nome Aqui](https://github.com/seu-usuario).
+Desenvolvido por [Denis Antonini](https://github.com/DesenDenisAntonini).
 
 Se tiver dúvidas ou sugestões, entre em contato!
