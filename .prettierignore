@@ -1,0 +1,19 @@
+# Ignora node_modules e build
+node_modules
+build
+dist
+
+# Ignora arquivos gerados
+*.log
+*.lock
+
+# Ignora a pasta storybook gerada
+storybook-static/
+
+# Ignora configurações locais
+.vscode/
+.idea/
+
+# Ignora arquivos de configuração que não queremos formatar
+package-lock.json
+yarn.lock
